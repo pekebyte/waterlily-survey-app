@@ -32,6 +32,18 @@ This repository contains a full-stack survey application with a backend (Node.js
    - Frontend: `npm run dev`
 4. (Optional) Create default admin user:
     - `cd backend && npm run seed:admin`
+
+## TODO
+
+- Implement most of the frontend workflow:
+  - Survey creation for admins
+  - Survey listing for users
+  - Survey response submission for users
+  - Survey review by users
+  - Improve UI
+
+> **Note:** Currently, only the login and signup process is working on the frontend.
+
 ## License
 
 MIT
